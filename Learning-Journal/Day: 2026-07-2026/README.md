@@ -13,3 +13,7 @@ Today I learned that GitHub is much more than a place to store code. It is a pla
 ## Next Goal
 
 Learn how commits work.
+
+## 📸 Course Screenshot
+
+![Course Screenshot](imagem_2026-07-23_202534817.png)
